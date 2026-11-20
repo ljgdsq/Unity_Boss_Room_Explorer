@@ -1,0 +1,16 @@
+{
+    "name": "Unity.BossRoom.Examples.VContainerExample",
+    "rootNamespace": "Unity.BossRoom.Examples.VContainerExample",
+    "references": [
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

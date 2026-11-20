@@ -1,0 +1,19 @@
+{
+    "name": "Unity.BossRoom.Examples.VContainerExample.Editor",
+    "rootNamespace": "Unity.BossRoom.Examples.VContainerExample.EditorTools",
+    "references": [
+        "Unity.BossRoom.Examples.VContainerExample",
+        "VContainer"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
